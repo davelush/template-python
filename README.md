@@ -6,7 +6,12 @@ One Paragraph of project description goes here
 
 Don't forget to change each of the following 
  - [ ] Change the name and version in setup.py
+ - [ ] Set your repository level config as you are probably on your work laptop
  
+```
+git config user.name "davelush"
+git config user.email "dave.lush@something.com"
+```
 
 ## Getting Started
 
